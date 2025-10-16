@@ -1,6 +1,6 @@
 # UnetGen-IFD
 
-This repository contains the official implementation of our paper titled *"A Novel UNet-Guided Conditional Generative Model for Data Augmentation and Application to Cylindrical Bearings Fault Diagnosis"*. 
+This repository contains the official implementation of our paper titled *"A Novel UNet-Guided Conditional Generative Model for Enhancing Fault Diagnosis of Rolling Bearings Under Data-Scarce Conditions"*. 
 
 The corresponding manuscript has been submitted to the journal for peer review.
 
